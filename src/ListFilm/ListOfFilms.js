@@ -1,0 +1,39 @@
+export const ListOfFilms = [
+    {
+        id: 1, img: "https://m.media-amazon.com/images/M/MV5BNDYwODdiOTItZTExZC00ZDZjLTkyODMtMWYxODVlMjQ0YjQxXkEyXkFqcGdeQXVyNjExNTE4MzU@._V1_.jpg", title: "Reply 1988", year: "2015", nation: "Korea", video: "https://www.youtube.com/embed/c-EMf3JdxUA",
+        info: "Reply 1988 is a drama focusing on five childhood friends- the bubbly Deok-sun, the grumpy Jung-hwan, the comedian Dong-ryeong, the innocent kid Sun-woo and the reserved one Choi Taek. Their lives intertwine together to create their own little world. Reply 1988 divides its focus between the teens and their parents. The drama showcases their teenage struggle to overcome issues every teen can relate to and how they grow through everything they go through. The drama is about husband-hunting. It’s about how they grew up together and became successful in their own life, and the beautiful memories that they with them."
+    },
+    {
+        id: 2, img: "https://upload.wikimedia.org/wikipedia/en/c/cc/Nobita_MidoriKyojinden.png", title: "Doraemon: Nobita and the Green Giant Legend", year: "2008", nation: "Japanese", video: "https://www.youtube.com/embed/BQY53xLxfUY",
+        info: "Nobita finds a small plant still in a container at an abandoned area and decides to take it home. His mother asks him not to put it on their garden because it won't have space to properly grow. Therefore Doraemon uses a special plant converter from the future that will allow the plant to move freely without the need to form roots attached to the ground. Named 'Kibou' (Hope), the small green creature gleefully plays with Nobita and his friends. The group is taken by surprise when they are suddenly transported to another planet governed by a society of plant beings."
+    },
+    {
+        id: 3, img: "https://www.themoviedb.org/t/p/original/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg", title: "Home Alone", year: "1990", nation: "USA", video: "https://www.youtube.com/embed/jEDaVHmw7r4",
+        info: "HOME ALONE is the story of 8-year-old Kevin (Macaulay Culkin), a mischievous kid who feels largely ignored by his large extended family. While everyone is preparing for a Christmas vacation in Paris, Kevin gets in trouble, is banished to the attic overnight, and wishes his family would just disappear. He gets his wish the next morning when they mistakenly leave him behind. At first Kevin is elated -- but pretty soon he realizes that being home alone isn't all it's cracked up to be. He misses his mom (who tries any and every means of getting home to her son) and even his brother, who bullies him. With all of the block's other families also away, Kevin has no one to turn to."
+    },
+    {
+        id: 4, img: "https://m.media-amazon.com/images/M/MV5BMTc1NjcxNzg4MF5BMl5BanBnXkFtZTgwOTMzNzgyMDE@._V1_.jpg", title: "Phineas and Ferb", year: "2013", nation: "UK", video: "https://www.youtube.com/embed/iiTMAYiT4E8",
+        info: "The program follows Phineas Flynn and his stepbrother Ferb Fletcher,[2] who are between eight and ten years old,[3] during summer vacation. Every day, the boys embark on a grand new project, which is usually unrealistic in scale given the protagonists' ages (and are sometimes physically impossible). This annoys their controlling older sister Candace, who frequently tries to reveal their shenanigans to her and Phineas' mother, Linda Flynn-Fletcher, and less frequently to Ferb's father, Lawrence Fletcher. The series follows a standard plot system; running gags occur in every episode, and the subplot almost always features Phineas and Ferb's pet platypus Perry working as a spy named 'Agent P' for the O.W.C.A. (Organization Without a Cool Acronym) to defeat the latest scheme of Dr."
+    },
+    {
+        id: 5, img: "https://m.media-amazon.com/images/I/91PvzMuwLbL._AC_SY550_.jpg", title: "Cinderela", year: "1998", nation: "UK", video: "https://www.youtube.com/embed/p_htEPBX-v4",
+        info: "With a wicked stepmother (Wilfred Jackson) and two jealous stepsisters (Homer Brightman, Harry Reeves) who keep her enslaved and in rags, Cinderella (Clyde Geronimi) stands no chance of attending the royal ball. When her fairy godmother (Hamilton Luske) appears and magically transforms her reality into a dream come true, Cinderella enchants the handsome Prince Charming at the ball, but must face the wrath of her enraged stepmother and sisters when the spell wears off at midnight."
+    },
+    {
+        id: 6, img: "https://lumiere-a.akamaihd.net/v1/images/p_thelionking_19752_1_0b9de87b.jpeg", title: "The Lion King", year: "1985", nation: "USA", video: "https://www.youtube.com/embed/GibiNy4d4gc",
+        info: "Disney’s The Lion King is about a young lion named Simba, who is the crown prince of an African Savanna. His father Mufasa is training Simba to become king of the pride lands. However, we learn that Mufasa’s brother Scar is jealous of Mufasa and Simba’s right to the throne. He plots with a large pack of hyaenas to overthrow Mufasa and scare Simba away. Scar stages an accident that leads to Mufasa’s demise, while making Simba feel responsible for the passing of his father. He tells Simba he should run for his life instead of take responsibility for the accident which Simba thinks he caused, though he didn’t. Simba runs away as advised, and meets a warthog named Pumbaa and a meerkat named Timon."
+    },
+    {
+        id: 7, img: "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg", title: "Titanic", year: "1997", nation: "USA", video: "https://www.youtube.com/embed/I7c1etV7D7g",
+        info: "Titanic, British luxury passenger liner that sank on April 15, 1912, en route to New York from Southampton, England, on its maiden voyage. The largest and most luxurious ship afloat, the Titanic had a double-bottomed hull divided into 16 watertight compartments. Because four of these could be flooded without endangering its buoyancy, it was considered unsinkable. Shortly before midnight on April 14, it collided with an iceberg southeast of Cape Race, Newfoundland; five compartments ruptured and the ship sank. Some 1,500 of its 2,200 passengers died."
+    },
+    {
+        id: 8, img: "https://cdn.marvel.com/content/1x/avengersendgame_lob_crd_05.jpg", title: "Avengers: Infinity War", year: "1985", nation: "USA", video: "https://www.youtube.com/embed/6ZfuNTqbHE8",
+        info: "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain."
+    },
+    {
+        id: 9, img: "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg", title: "Harry Potter And The Philosopher’s Stone", year: "1985", nation: "USA", video: "https://www.youtube.com/embed/mNgwNXKBEW0",
+        info: "Harry Potter lives with his abusive aunt and uncle, Vernon and Petunia Dursley, and their bullying son, Dudley. On Harry's eleventh birthday, a half-giant named Rubeus Hagrid personally delivers an acceptance letter to Hogwarts School of Witchcraft and Wizardry, revealing that Harry's parents, James and Lily Potter, were wizards. When Harry was one year old, an evil and powerful dark wizard, Lord Voldemort, murdered his parents. Harry survived Voldemort's killing curse that rebounded and seemingly destroyed the Dark Lord, leaving a lightning bolt-shaped scar on his forehead. Unknown to Harry, this act made him famous in the wizarding world."
+    }
+
+];
